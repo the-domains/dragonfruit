@@ -1,0 +1,23 @@
+name: Dragonfruit
+favicon: null
+layout_spectrum: 0.07291425368748605
+typography_spectrum: 0.023807105608284473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.49764641583897173
+  lightness: 0.2721739113330841
+  saturation: 0.060690730810165405
+  rhythmicContrast: 0.8189895786345005
+purpose: []
