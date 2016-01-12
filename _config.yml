@@ -1,7 +1,7 @@
 name: Dragonfruit
 favicon: null
-layout_spectrum: 0.07291425368748605
-typography_spectrum: 0.023807105608284473
+layout_spectrum: 0.27277
+typography_spectrum: 0.43693
 title: Dragonfruit Event Solutions
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.49764641583897173
-  lightness: 0.2721739113330841
-  saturation: 0.060690730810165405
-  rhythmicContrast: 0.8189895786345005
+  brandColors:
+    - '#fd5360'
+    - '#c20f0b'
+    - '#1b1a20'
+    - '#d1f8c1'
+    - '#8daf68'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
